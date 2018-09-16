@@ -1,9 +1,8 @@
-package Display;
+package Entity.Creatures.Display;
 
 import Entity.Entity;
 import Tiles.Tile;
 import Utils.TestFetures;
-import main.Game;
 import main.Handler;
 
 /**

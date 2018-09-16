@@ -1,7 +1,6 @@
 package Tiles;
 
-import Display.Sprites.Assets.AssetsManager;
-import Display.Sprites.Assets.DungeonAssets;
+import Entity.Creatures.Display.Sprites.Assets.DungeonAssets;
 
 import java.awt.image.BufferedImage;
 

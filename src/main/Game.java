@@ -1,8 +1,8 @@
 package main;
 
-import Display.Display;
-import Display.GameCamera;
-import Display.Sprites.Assets.AssetsManager;
+import Entity.Creatures.Display.Display;
+import Entity.Creatures.Display.GameCamera;
+import Entity.Creatures.Display.Sprites.Assets.AssetsManager;
 import States.GameState;
 import States.MenuState;
 import States.State;
@@ -55,7 +55,7 @@ public class Game implements Runnable {
         AssetsManager.initAllAssets();
         gameState = new GameState(handler);
         menuState = new MenuState(handler);
-        State.setCurrentState(menuState);
+        State.setCurrentState(gameState);
     }
 
     private void tick(){

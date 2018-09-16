@@ -1,4 +1,4 @@
-package Display.Sprites.Assets;
+package Entity.Creatures.Display.Sprites.Assets;
 
 import java.awt.image.BufferedImage;
 import java.io.IOException;

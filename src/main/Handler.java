@@ -1,6 +1,6 @@
 package main;
 
-import Display.GameCamera;
+import Entity.Creatures.Display.GameCamera;
 import Utils.TestRendering;
 import Worlds.World;
 

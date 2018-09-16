@@ -1,7 +1,6 @@
-package Display.Sprites.Animations;
+package Entity.Creatures.Display.Sprites.Animations;
 
-import Display.Sprites.Assets.PlayerAssets;
-import Entity.Creatures.Player;
+import Entity.Creatures.Display.Sprites.Assets.PlayerAssets;
 
 import java.awt.image.BufferedImage;
 

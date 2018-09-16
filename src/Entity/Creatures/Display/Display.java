@@ -1,7 +1,6 @@
-package Display;
+package Entity.Creatures.Display;
 import javax.swing.JFrame;
 import java.awt.*;
-import java.awt.image.BufferStrategy;
 
 /**
  * Created by Admin on 15.07.2017.

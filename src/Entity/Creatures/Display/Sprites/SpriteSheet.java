@@ -1,4 +1,4 @@
-package Display.Sprites;
+package Entity.Creatures.Display.Sprites;
 
 import java.awt.image.BufferedImage;
 

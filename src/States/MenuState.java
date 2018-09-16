@@ -1,7 +1,6 @@
 package States;
 
-import Display.Sprites.Assets.PlayerAssets;
-import main.Game;
+import Entity.Creatures.Display.Sprites.Assets.PlayerAssets;
 import main.Handler;
 
 import java.awt.*;

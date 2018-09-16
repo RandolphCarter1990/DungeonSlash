@@ -1,7 +1,7 @@
 package Entity.Creatures;
 
-import Display.Sprites.Assets.PlayerAssets;
-import Display.Sprites.Animations.Animation;
+import Entity.Creatures.Display.Sprites.Assets.PlayerAssets;
+import Entity.Creatures.Display.Sprites.Animations.Animation;
 import Utils.TestFetures;
 import main.Handler;
 

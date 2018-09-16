@@ -1,7 +1,6 @@
-package Display.Sprites.Assets;
+package Entity.Creatures.Display.Sprites.Assets;
 
-import Display.Sprites.Assets.Assets;
-import Display.Sprites.SpriteSheet;
+import Entity.Creatures.Display.Sprites.SpriteSheet;
 import Utils.ImageLoader;
 
 import java.awt.image.BufferedImage;

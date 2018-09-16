@@ -1,6 +1,6 @@
 package Entity.Statics;
 
-import Display.Sprites.Assets.DungeonAssets;
+import Entity.Creatures.Display.Sprites.Assets.DungeonAssets;
 import Tiles.Tile;
 import main.Handler;
 import java.awt.*;
